@@ -32,29 +32,27 @@ body {
     background-color: var(--Blue);
 } 
 
-.work {
+.bgwork {
     background-color: var(--Lighter-red);
 }
 
-
-
-.play {
+.bgplay {
     background-color: var(--Soft-blue);
 }
 
-.study {
+.bgstudy {
     background-color: var(--Light-red);
 }
 
-.exercise {
+.bgexercise {
     background-color: var(--Lime-green);
 }
 
-.social {
+.bgsocial {
     background-color: var(--Violet);
 }
 
-.selfcare {
+.bgselfcare {
     background-color: var(--Soft-orange);
 }
 .base:hover {
